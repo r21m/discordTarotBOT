@@ -1,3 +1,3 @@
 # discordTarotBOT
 
-Tarot BOT for discord./n Based on: https://github.com/jeremytarling/python-tarot  
+Tarot BOT for discord. Based on: https://github.com/jeremytarling/python-tarot .  
